@@ -1,2 +1,2 @@
 # Container View Controller
-An example of container view controller, using two childs view controller and a segmented control.
+An example of container view controller, using two children view controller and a segmented control.
