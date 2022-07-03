@@ -1,2 +1,2 @@
-# Container View Controller
-An example of container view controller, using two childs view controller and a segmented control.
+# Bind MVVM
+An example using a generic class to do data binding between view model and view controller.
